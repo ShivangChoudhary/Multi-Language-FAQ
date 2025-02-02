@@ -11,7 +11,7 @@ Django FAQ API with Multilingual Support
 
 ## Installation
 ```bash
-git clone https://github.com/your-repo/django-faq-app.git
+git clone https://github.com/ShivangChoudhary/Multi-Language-FAQ.git
 cd django-faq-app
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
